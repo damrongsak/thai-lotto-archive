@@ -10,12 +10,13 @@ links = [
     #"http://news.sanook.com/lotto/check/16112556/",
     #"http://news.sanook.com/lotto/check/16072557/",
     #"http://news.sanook.com/lotto/check/16072559/"
-    "http://news.sanook.com/lotto/check/16022561/"
+    #"http://news.sanook.com/lotto/check/16022561/"
     #"http://news.sanook.com/lotto/check/16072553/",
     #"http://news.sanook.com/lotto/check/01102553/",
     #"http://news.sanook.com/lotto/check/30122550/",
     #"http://news.sanook.com/lotto/check/16042551/",
     #"http://news.sanook.com/lotto/check/01082551/"
+    "http://news.sanook.com/lotto/check/16052564/"
 ]
 
 '''
